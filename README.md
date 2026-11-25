@@ -1,2 +1,2 @@
-# lab-agile-planning
+# DevOpsStudent/lab-agile-planning
 This repositary contains the lab for Agile Planning
